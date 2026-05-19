@@ -2,5 +2,5 @@
   "name": "Rich Presence",
   "description": "Custom Discord Rich Presence",
   "authors": [{"name": "kite"}],
-  "main": "index.ts"
+  "main": "src/index.ts"
 }
