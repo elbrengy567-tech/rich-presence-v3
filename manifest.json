@@ -1,0 +1,14 @@
+{
+  "name": "Rich Presence v2",
+  "description": "Sets Discord Rich Presence for your profile.",
+  "authors": [
+    {
+      "name": "kite",
+      "id": "492949202121261067"
+    }
+  ],
+  "main": "src/index.ts",
+  "vendetta": {
+    "icon": "ic_controller_24px"
+  }
+}
